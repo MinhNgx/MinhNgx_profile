@@ -27,8 +27,3 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br> 
 </p>
-
-<h2  align="center">💻 Check Out My Repos 💽 <br>
-⏬🔰⏬🔰⏬🔰⏬
-</h2>
-
