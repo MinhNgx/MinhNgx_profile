@@ -11,7 +11,7 @@
 <p align="center">
   <samp>🛠️Passionate about programming...💻<br>
     🚀I am an avid open source enthusiast, contributor and developer.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
-      <img src="https://komarev.com/ghpvc/?username=MinhNgx_"><br>
+      <img src="https://komarev.com/ghpvc/?username=MinhNgx"><br>
     📖📚 Language 🗞️🏅<br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
