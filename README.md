@@ -10,10 +10,10 @@
 <h2 align="center"> ⚙️ Personal Information 🔎</h2>
 <p align="center">
   <samp>🛠️ Passionate about programming... 💻<br>
-   💪 Intersted in develop system and alwwys excited to learn new teachnology to apply in my project. 🧲 <br>💼 And I'm currently a Process Equipment Engineer at Intel Vietnam. 🏤<br>
+   💪Interested in developing system and always excited to learn new technology to apply in my project.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
       <img src="https://komarev.com/ghpvc/?username=MinhNgx">
     <br>
-    📖📚 Language 🗞️🏅<br>
+    📖 Language 📚<br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,7 +24,7 @@
 </p>
 
 ------
-<h2  align="center">📧 Reach me on 🖥️</h2>
+<h2  align="center">✉️ Reach me on 🖥️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br> 
 </p>
