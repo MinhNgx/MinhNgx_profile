@@ -7,10 +7,10 @@
 </p>
 
 ---
-<h2 align="center"> ⚙️Personal Information🔎</h2>
+<h2 align="center"> ⚙️ Personal Information 🔎</h2>
 <p align="center">
-  <samp>🛠️Passionate about programming...💻<br>
-   💪Intersted in develop system and alwwys excited to learn new teachnology to apply in my project.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
+  <samp>🛠️ Passionate about programming... 💻<br>
+   💪 Intersted in develop system and alwwys excited to learn new teachnology to apply in my project. 🧲 <br>💼 And I'm currently a Process Equipment Engineer at Intel Vietnam. 🏤<br>
       <img src="https://komarev.com/ghpvc/?username=MinhNgx">
     <br>
     📖📚 Language 🗞️🏅<br>
