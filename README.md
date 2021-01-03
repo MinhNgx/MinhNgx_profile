@@ -7,10 +7,10 @@
 </p>
 
 ---
-<h2 align="center"> ⚙️Personal Information⚙️</h2>
+<h2 align="center"> ⚙️Personal Information🔎</h2>
 <p align="center">
   <samp>🛠️Passionate about programming...💻<br>
-    Intersted in develop system and alwways excited to learn new teachnology to apply in my project.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
+   💪Intersted in develop system and alwwys excited to learn new teachnology to apply in my project.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
       <img src="https://komarev.com/ghpvc/?username=MinhNgx">
     <br>
     📖📚 Language 🗞️🏅<br>
@@ -24,7 +24,7 @@
 </p>
 
 ------
-<h2  align="center">📫 Reach me on 🧧</h2>
+<h2  align="center">📧 Reach me on 🖥️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br> 
 </p>
