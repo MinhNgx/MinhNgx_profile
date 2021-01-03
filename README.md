@@ -26,5 +26,8 @@
 ------
 <h2  align="center">✉️ Reach me on 🖥️</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br> 
+  <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a>
+  <a href="https://www.facebook.com/minhZminh"><img src="https://img.shields.io/badge/Facebook-minhzminh-red?style=social&logo=facebook" />
+  <a href="https://www.youtube.com/channel/UCjZ9kjVhbn6tRY2juZIPu7A"><img src="https://img.shields.io/badge/Youtube-Van%20Minh-red?style=social&logo=youtube" /></a><br>
+  
 </p>
