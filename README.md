@@ -1,24 +1,33 @@
-# github-profile-summary-cards-example
+<p  align="center">
+  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/0-profile-details.svg">
+  </br>
+  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/3-stats.svg">
+  </br>
+</p>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+---
+<h2 align="center"> ⚙️Personal Information⚙️</h2>
+<p align="center">
+  <samp>🛠️Passionate about programming...💻<br>
+    🚀I am an avid open source enthusiast, contributor and developer.🧲 <br>💼And I'm currently a Process Equipment Engineer at Intel Vietnam.🏤<br>
+      <img src="https://komarev.com/ghpvc/?username=MinhNgx_"><br>
+    📖📚 Language 🗞️🏅<br>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  </samp>
+  <br> 
+</p>
+------
+<h2  align="center">📫 Reach me on 🧧</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br> 
+</p>
 
-```To create your profile README you need to name the repo as your username```
+<h2  align="center">💻 Check Out My Repos 💽 <br>
+⏬🔰⏬🔰⏬🔰⏬
+</h2>
 
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-[Creating a personal access token
-](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
-
-[Personal token permissions](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
-
-| :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
