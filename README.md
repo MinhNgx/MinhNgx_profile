@@ -24,6 +24,11 @@
 </p>
 
 ------
+<h2 align="center">💬 My Blog Articles 🌠</h2>
+<p align="center">
+  <a href="https://minhngx.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-minhngx.github.io-8B008B?style=for-the-badge&logo=github"/>
+</p>
+
 <h2  align="center">✉️ Reach me on 🖥️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhngx/"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br>
