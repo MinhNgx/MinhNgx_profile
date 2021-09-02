@@ -7,13 +7,13 @@
 </p>
 
 ---
-<h2 align="center"> ⚙️ Personal Information 🔎</h2>
+<h2 align="center">Personal Information</h2>
 <p align="center">
-  <samp>🛠️ Passionate about programming... 💻<br>
-   💪Interested in developing system and always excited to learn new technology to apply in my project🧲 <br>💼And I'm currently a Embedded Software Engineer at Bosch Vietnam🏤<br>
+  <samp>�Passionate about programming... 💻<br>
+  Interested in developing system and always excited to learn new technology to apply in my projec 🛠️ <br>And I'm currently a Embedded Software Engineer at Bosch Vietnam 💼<br>
       <img src="https://komarev.com/ghpvc/?username=MinhNgx">
     <br>
-    📖 Language 📚<br>
+   Language<br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,12 +24,12 @@
 </p>
 
 ------
-<h2 align="center">💬 My Blog Articles 🌠</h2>
+<h2 align="center"My Blog Articles</h2>
 <p align="center">
   <a href="https://minhngx.github.io/" target="_blank"><img src="https://img.shields.io/badge/Myblog%3A-minhngx.github.io-8B008B?style=for-the-badge&logo=github"/><a>
 </p>
 
-<h2  align="center">✉️ Reach me on 🖥️</h2>
+<h2  align="center">Reach me on</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhngx/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-minhngx-red?style=social&logo=linkedin" /></a><br>
   <a href="https://www.facebook.com/minhZminh" target="_blank"><img src="https://img.shields.io/badge/Facebook-minhzminh-red?style=social&logo=facebook" /></a><br>
