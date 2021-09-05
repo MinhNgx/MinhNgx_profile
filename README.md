@@ -10,7 +10,7 @@
 <h2 align="center">Personal Information</h2>
 <p align="center">
   <samp>Passionate about programming... 💻<br>
-  Interested in develop system and always excited to learn new technology to apply in my project 🛠️ <br>And I'm currently a Embedded Software Engineer at Bosch Vietnam 💼<br>
+  Interested in develop system and always excited to learn new technology to apply in my project 🛠️ <br>And I'm currently a Software Engineer at Bosch Vietnam 💼<br>
       <img src="https://komarev.com/ghpvc/?username=MinhNgx">
     <br>
    Language<br>
