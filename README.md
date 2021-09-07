@@ -24,8 +24,8 @@
   <br> 
 </p>
 
-------
-<h2 align="center"My Blog Articles</h2>
+---
+<h2 align="center">My Blog Articles</h2>
 <p align="center">
   <a href="https://minhngx.github.io/" target="_blank"><img src="https://img.shields.io/badge/Myblog%3A-minhngx.github.io-8B008B?style=for-the-badge&logo=github"/><a>
 </p>
