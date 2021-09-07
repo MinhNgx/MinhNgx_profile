@@ -1,8 +1,8 @@
 <p  align="center">
-  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/0-profile-details.svg">
+  <img src="https://github.com/minhngx/minhngx/blob/master/profile-summary-card-output/github_dark/0-profile-details.svg">
   </br>
-  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
-  <img src="https://github.com/MinhNgx/MinhNgx_profile/blob/master/profile-summary-card-output/solarized/3-stats.svg">
+  <img src="https://github.com/minhngx/minhngx/blob/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="https://github.com/minhngx/minhngx/blob/master/profile-summary-card-output/github_dark/3-stats.svg">
   </br>
 </p>
 
@@ -11,7 +11,7 @@
 <p align="center">
   <samp>Passionate about programming... 💻<br>
   Interested in develop system and always excited to learn new technology to apply in my project 🛠️ <br>And I'm currently a Software Engineer at Bosch Vietnam 💼<br>
-      <img src="https://komarev.com/ghpvc/?username=MinhNgx">
+      <img src="https://komarev.com/ghpvc/?username=minhngx">
     <br>
    Language<br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
