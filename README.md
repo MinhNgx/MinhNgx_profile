@@ -11,9 +11,9 @@
 <p align="center">
   <samp>Passionate about programming... 💻<br>
   Interested in develop system and always excited to learn new technology to apply in my project 🛠️ <br>And I'm currently a Software Engineer at Bosch Vietnam 💼<br>
-      <img src="https://komarev.com/ghpvc/?username=minhngx">
-    <br>
-   Languages<br>
+  <img src="https://komarev.com/ghpvc/?username=minhngx">
+  <br>
+  Languages<br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
